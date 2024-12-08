@@ -16,5 +16,5 @@ export default {
     timezone: 'Asia/Shanghai',
     favicon: 'https://wsrv.nl/?url=github.com/Evereen2023.png%3fsize=32&mask=circle',
     url: 'https://eseir.com/',
-    blogAtom: 'https://blog.eseir.com/atom.xml',
+    blogAtom: 'https://eees.blog/atom.xml',
 }

@@ -19,7 +19,7 @@ const appConfig = useAppConfig()
             </p>
             <div>
                 <!-- TODO: 修改成实际博客链接 -->
-                <ZButton icon="ph:files-duotone" to="https://blog.eseir.com/" primary>
+                <ZButton icon="ph:files-duotone" to="https://eees.blog/" primary>
                     博客
                 </ZButton>
                 <ZButton icon="ph:github-logo-duotone" to="https://github.com/Evereen2023">
@@ -36,7 +36,7 @@ const appConfig = useAppConfig()
 
         <ZField label="近期活动">
             <p>
-                2024年12月与<ZLink to="https://www.zhilu.cyou/">纸鹿</Zlink>共同创建并完善<ZLink to="https://blog.eseir.com/">唤青映记</ZLink>与我的<ZLink to="https://eseir.com/">个人主页</ZLink>。
+                2024年12月与<ZLink to="https://www.zhilu.cyou/">纸鹿</Zlink>共同创建并完善<ZLink to="https://eees.blog/">唤青映记</ZLink>与我的<ZLink to="https://eseir.com/">个人主页</ZLink>。
             </p>
         </ZField>
 
